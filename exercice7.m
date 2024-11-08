@@ -1,7 +1,4 @@
 % Exercice 7:
-% Représenter sur 3 sous-figures comportant toutes les informations (légendes, labels …) 
-% les fonctions f(x) = sin(x^2), g(x) = exp(-x) et h(x) = f(x) * g(x), pour x € [0,5], 
-% avec des couleurs et des symboles différents.
 
 x = linspace(0, 5, 100);
 f = sin(x.^2);
